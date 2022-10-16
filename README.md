@@ -4,7 +4,7 @@ A CSS Framework for your next ☁️ project.
 
 ## Getting started:
 
-There are a couple ways to download Elegant-UI:
+There are a couple ways to download Elegant-CSS:
 - Clone the repo: `git clone https://github.com/codeverything/elegantcss.git` (Note: this is under development)
 
 
